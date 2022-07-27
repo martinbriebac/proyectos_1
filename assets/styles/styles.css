@@ -1,0 +1,21 @@
+.info{
+    background-color: #FF4F40;
+}
+
+.letter-color{
+    color: #FF4F40;
+    font-weight: bolder;
+}
+
+.letter-green{
+    color: rgb(33, 151, 33);
+    font-weight: bold;
+}
+
+.bg-banner{
+    background-color: rgb(33, 151, 33);
+}
+
+.vacio{
+    height: 1000px;
+}
